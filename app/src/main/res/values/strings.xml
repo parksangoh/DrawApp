@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DrawApp</string>
+    <string name="question1">사진을 선택하시겠습니까?</string>
+    <string name="question2">가장 좋아하는 사진은?</string>
+    <string name="start">시작</string>
+    <string name="forest">숲</string>
+    <string name="sea">바다</string>
+    <string name="mountain">산</string>
+    <string name="choice">선택 완료</string>
+</resources>
